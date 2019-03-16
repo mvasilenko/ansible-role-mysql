@@ -3,6 +3,7 @@ dependencies: []
 
 galaxy_info:
   author: geerlingguy
+  role_name: mysql
   description: MySQL server for RHEL/CentOS and Debian/Ubuntu.
   company: "Midwestern Mac, LLC"
   license: "license (BSD, MIT)"
